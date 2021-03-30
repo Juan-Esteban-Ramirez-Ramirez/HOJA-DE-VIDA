@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/*comentario */
+body {
+     background: rgb(182, 180, 177);
+     margin-top: 1rem;
+     margin-bottom: 5rem;
+     margin-left:5rem ;
+     margin-right: 5rem;
+}
+
+article {
+    background:rgb(75, 181, 199);
+    margin: 2rem;
+    padding-top: 2rem;
+    padding-bottom: 0.001rem;
+    padding-left: 3rem ;
+    padding-right: 3rem ;
+
+}
+
+/*section{
+    background: rgb(38, 214, 14);
+}*/
+
+div{
+    background: rgb(20, 21, 21);
+    margin: 0.01rem;
+    padding: 0.01rem;
+}
+
+.fondo1{
+    background: rgb(75, 181, 199);
+}
+
+.fondo2{
+    background:rgb(75, 181, 199);
+}
+
+.fondo3{
+    background:rgb(75, 181, 199);
+}
+
+.fondo4{
+    background: rgb(75, 181, 199);
+}
+
+.fondo5{
+    background:rgb(75, 181, 199);
+}
+
+.contenedor-centro{
+    display:block;
+    margin: 1rem;
+    text-align: center;
+
+}
+
+.fin{
+    background:rgb(75, 181, 199);
+    margin: 2rem;
+    padding: 2rem; 
+}
+
+
+
+
+/*.piepagina{
+    background: gold;
+} */
